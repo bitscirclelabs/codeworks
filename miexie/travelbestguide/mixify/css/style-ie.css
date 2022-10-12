@@ -1,0 +1,17 @@
+.header{position: fixed;  width: 100%;  z-index: 2000;}	
+ .callbacks{ margin: 4% 0 0; } 	
+ #ul-top-menu {  margin: 20px 0 0 0px; } 
+ .callbacks img{height:450px;} 
+.featured-wrapper-2 > div:nth-child(1), .featured-wrapper-2 > div:nth-child(2){width: 50%;}
+.featured-wrapper-2 > div:nth-child(1) > div{float:right; margin-right: 35px;}
+.featured-wrapper-2 > div:nth-child(2) > div{float:left; margin-left: 35px;}
+.widget_gallery > div.row > div:nth-child(odd) img{ float:right; }
+.widget_gallery > div.row > div:nth-child(even) img{float:left; }
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+    font-family: "CreteRound";
+    font-size: 14px !important;
+    padding: 5px 10px;
+}
+.navbar-default{background-color:transparent;border:0px; filter:none;}  
+#logo-img{width:404px; float:left;}   

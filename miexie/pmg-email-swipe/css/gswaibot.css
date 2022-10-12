@@ -1,0 +1,60 @@
+#wpwrap{ background: #f1f1f1 none no-repeat center center fixed; }
+.gswaibot-maincontent{ width: 98%; min-height: 500px; }  
+.accordion-inner-body{    float: left;
+    width: 97%;
+    padding: 10px;
+    margin: 10px 0;   }       
+.textarea-wrapper  textarea{ width: 100%; min-height: 100px; }	
+.textarea-wrapper  input[type="text"]{ width: 100%; margin:10px 0;  padding: 10px; }	
+.email-swipe-action{padding:10px 0;}
+.email-swipe-action button{     background-color: #0073aa;  color: #fff;  border: 0 none;
+    padding: 10px; cursor: pointer;  -webkit-transition: background-color 500ms ease-out 4ms;
+    -moz-transition: background-color 500ms ease-out 4ms;
+    -o-transition: background-color 500ms ease-out 4ms;
+    transition: background-color 500ms ease-out 4ms;  }      
+.eswipe-btn{background-color: #58a4a5;
+    color: #fff !important;
+    float: left;
+    margin: 0 10px;
+    padding: 5px;
+    text-align: center;
+    width: 90px; text-decoration:none;  
+	-webkit-transition: background-color 500ms ease-out 4ms;
+    -moz-transition: background-color 500ms ease-out 4ms;
+    -o-transition: background-color 500ms ease-out 4ms;
+    transition: background-color 500ms ease-out 4ms;  }
+.eswipe-btn:hover{ background-color: #478485; }	
+.eswipe-btn.btn-delete{background-color: #ce002e;}
+.eswipe-btn.btn-delete:hover{background-color: #a80025;}
+.eswipe-btn.btn-edit-style{background-color: #faa523;}
+.eswipe-btn.btn-edit-style:hover{background-color: #db901c;}
+.eswipe-btn.btn-duplicate{background-color: #27ae60;}
+.eswipe-btn.btn-duplicate:hover{background-color: #1f8e4e;}   
+.eswipe-btn-auto{width:auto; padding: 10px 20px;}
+.no-margin{margin:0;}
+
+.form-control{
+    background-color: #fff;
+    font-size:17px !important;
+	color:#000 !important;
+    height: 1.7em;
+    line-height: 100%;
+    margin: 0 0 3px;
+    outline: 0 none;
+    padding: 3px 8px;
+    width: 100%;
+	font-family: inherit !important;
+}
+#title.form-control{  border: 1px solid #c0c0c0;
+    border-radius: 3px 3px 0 0; -moz-border-radius: 3px 3px 0 0;  -webkit-border-radius: 3px 3px 0 0; }	
+  #vertical-tabs{width:98%;}
+  .ui-tabs-vertical { width: 55em; }
+  .ui-tabs-vertical > .ui-tabs-nav { padding: .2em .1em .2em .2em; float: left; width: 12em; }
+  .ui-tabs-vertical > .ui-tabs-nav li { clear: left; width: 100%; border-bottom-width: 1px !important; border-right-width: 0 !important; margin: 0 -1px .2em 0; }
+  .ui-tabs-vertical > .ui-tabs-nav li a { display:block; }
+  .ui-tabs-vertical > .ui-tabs-nav li.ui-tabs-active { padding-bottom: 0; padding-right: .1em; border-right-width: 1px; }
+  .ui-tabs-vertical > .ui-tabs-panel { padding: 1em; float: right; width: 79%;}
+  .ui-tabs-vertical > .ui-tabs-nav .ui-tabs-anchor{  width: 82%; }
+  .eswipe-col-50{border:1px solid;width:48%; margin:5px; min-height:50px;}
+
+  #banner-ad-wrapper{width:100%; text-align: right; padding-top:100px;}

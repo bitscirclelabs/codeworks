@@ -1,0 +1,13 @@
+.eswipe-box-1, .eswipe-box-2{margin:10px 0; }
+.eswipe-box-1, .eswipe-box{border:1px solid #dddddd; border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px;}
+.eswipe-box-1 > h3, .eswipe-box > h3{background: #f6f6f6 none repeat scroll 0 0; border-bottom: 1px solid #dddddd; padding: 1em;  }
+.eswipe-box-1 > *, .eswipe-box-2 > *, .eswipe-box > *{ padding: 1em 2.2em;margin:0;}
+.eswipe-box-2 {  border:3px dashed #faa523; }
+.eswipe-box-1 > h3, .eswipe-box-2 > h3, .eswipe-box > h3{font-size:20px; color: #000; font-weight: bold;   margin: 0 !important; }
+table.options-table{width:100%;}  
+table.options-table td > *{float:left;}
+table.options-table td > span{padding: 0 0 10px 10px;}
+table.options-table > tbody > tr > td{width:50%; height: 45px; vertical-align:top;}
+table.options-table  .wp-picker-container{}
+.email-swipe-action button{font-size:14px;}
+textarea[name="eswipe-custom-design"]{display:none !important;}   

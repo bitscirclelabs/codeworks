@@ -1,0 +1,1 @@
+<div id="banner-ad-wrapper"><a href="https://priormarketing.com/funnel-playbook/" target="_blank"><img src="<?php echo WP_GSWAIBOT_IMAGES_URL.'/ads/banner-728x90.jpeg';?>" title="Priormarketing - The Funnel Playbook" alt="Priormarketing - The Funnel Playbook"/></a></div>
